@@ -1,0 +1,13 @@
+.orderPage {
+  display: flex;
+  flex-direction: column;
+}
+
+.orderPage > h1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.orderPage > h1 > span {
+  font-size: 13px;
+}

@@ -1,0 +1,23 @@
+.Sidebar {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-top: 2rem;
+  transition: all 300ms ease;
+}
+
+.logo {
+  display: block;
+  height: 5rem;
+  font-weight: bold;
+  font-size: 22px;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  height: 2%;
+}
+
+.logo > img {
+  width: 5rem;
+  height: 5rem;
+}
